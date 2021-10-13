@@ -1,0 +1,18 @@
+<html>
+<head>
+<title> TITULO</title>
+
+<style>
+  p {color:red;}
+  a {}
+  #cabecera {}
+  
+</style>
+
+</head>
+
+<body>
+
+</body>
+
+</html>
